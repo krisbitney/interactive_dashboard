@@ -1,0 +1,1 @@
+This is a simple web application that consists of one page with an interactive dashboard. The application was created using html, css, bootstrap.js, and plotly. The dashboard displays a simple graph with economic data from World Bank Open Data.
